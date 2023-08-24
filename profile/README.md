@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/strberry/framework" target="_blank">
-    <img src="https://github.com/strberry/.github/assets/129489839/e241b819-1178-48c0-945e-94b1e755b689" height="200">
+    <img src="https://github.com/strberry/.github/assets/129489839/e241b819-1178-48c0-945e-94b1e755b689">
   </a>
 </p>
 
